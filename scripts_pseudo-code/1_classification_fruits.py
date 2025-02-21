@@ -29,6 +29,7 @@ attributs = [
     ["Orange", "Ronde"],
     ["Vert", "Ronde"],
     ["Jaune", "Ronde"]
+    ["orange",""]
 ]
 etiquettes = ["Pomme", "Banane", "Orange", "Pomme", "Banane"] # Les noms des fruits correspondants
 
